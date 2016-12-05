@@ -18,15 +18,23 @@
 #include "MyTypes.h"
 
 /***********************************************************************************
+                              DATA STORAGE INITIALIZATIONS
+***********************************************************************************/
+
+cur_data_t currentData; // creates struct for holding current data
+sp_data_t setpointData; // creates struct for holding calculated setpoint data
+float waypoints[10][2]; // stores gps waypoints
+byte currentWP = 0; // index for which waypoint system is on
+
+/***********************************************************************************
                               GPS INITIALIZATIONS
 ***********************************************************************************/
 SoftwareSerial mySerial(8,7); // Ensure switch is set to SoftSerial
 Adafruit_GPS GPS(&mySerial);
 
-boolean usingInterrupt = false; // this keeps track of whether we're using the interrupt, interrupt starts off by default
+boolean usingInterrupt = false; // this keeps track of whether we're using the interrupt
 void useInterrupt(boolean); // Func prototype keeps Arduino 0023 happy
 
-gps_t AdafruitGPSdata; // creates
 /***********************************************************************************
                         ULTRASONIC SENSOR INITIALIZATIONS
 ***********************************************************************************/
@@ -56,8 +64,8 @@ NewPing Ultrasonic_3(TRIGGER_PIN, ECHO_PIN_3, MAX_DISTANCE);
 
 #define fullStepPin 2
 
-boolean direction1_3 = 0; // 0=FWD 1=REV
-boolean direction2_4 = 0; // 0=FWD 1=REV
+//boolean direction1_3 = 0; // 0=FWD 1=REV
+//boolean direction2_4 = 0; // 0=FWD 1=REV
 
 /***********************************************************************************
                              COMPASS INITIALIZATIONS
@@ -95,13 +103,11 @@ void setup()
 
   useInterrupt(true);
   
-  compassRead();
-
-  delay(1000);
+  while(GPS.fixquality!=1) {};
 }
 
 /***********************************************************************************
-                                   GPS FUNCTIONS
+                                   GPS FUNCTIONS - has to be here in code
 ***********************************************************************************/
 
 // Interrupt is called once a millisecond, looks for any new GPS data, and stores it
@@ -129,9 +135,28 @@ uint32_t timer = millis();
                                      MAIN LOOP
 ***********************************************************************************/
 
-void loop()
-{ 
-  gpsData(&AdafruitGPSdata); // uses struct
-  ping_US(dist_US1, dist_US2, dist_US3, US_PingRate);
-  //driveS1(speedS1);
+void loop() { 
+  
+  setpointData.latitude = waypoints[currentWP][0];
+  setpointData.longitude = waypoints[currentWP][1];
+  gpsData();
+  compassRead();
+  float integral=0,previous_error=0; // pid calculation variables reset every setpoint
+  
+  // while not at current setpoint, drive until setpoint is reached
+  while(currentData.latitude!=setpointData.latitude && currentData.longitude!=setpointData.longitude) {
+      gpsData(); // gets current GPS location and time (UTS)
+      compassRead(); // gets current heading
+      pidControl(integral,previous_error); //enables control system to drive motors until setpoint is reached
+  }
+  
+  // if reached last WP, reset to first waypoint
+  // THIS MEANS CLOSED LOOP PATH FOLLOWING
+  if(currentWP==9) {
+    currentWP=0;
+  }
+  else currentWP++; // set next waypoint
+  
+  //need to handle obstacle avoidance using interrupt?
+  //ping_US(dist_US1, dist_US2, dist_US3, US_PingRate);
 }

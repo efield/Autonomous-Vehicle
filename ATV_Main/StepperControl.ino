@@ -1,7 +1,6 @@
 
 #define runTime 2000 // runs for 2 seconds
 
-
 // used to return pins to high allows for both
 // steppers to be run simultaneously
 void S1_3High() {
