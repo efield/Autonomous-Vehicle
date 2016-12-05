@@ -1,9 +1,8 @@
 /***********************************************************************************
   WRITTEN BY: ERIC FIELD
-  DATE: 21-NOV-2016
+  DATE: 5-DEC-2016
   PROJECT: AUTONOMOUS ALL TERRAIN VEHICLE
 ***********************************************************************************/
-
 
 /***********************************************************************************
                                  LIBRARIES
@@ -25,6 +24,9 @@ cur_data_t currentData; // creates struct for holding current data
 sp_data_t setpointData; // creates struct for holding calculated setpoint data
 float waypoints[10][2]; // stores gps waypoints
 byte currentWP = 0; // index for which waypoint system is on
+
+boolean debug = false;
+boolean debugPID = false;
 
 /***********************************************************************************
                               GPS INITIALIZATIONS
@@ -83,6 +85,8 @@ void setup()
   Serial.begin(115200);
   Serial.flush();
   
+  Serial.println("Initializing");
+  
   // Stepper pinModes
   pinMode(stepperPin1_3, OUTPUT);
   pinMode(stepperPin2_4, OUTPUT);
@@ -103,7 +107,14 @@ void setup()
 
   useInterrupt(true);
   
-  while(GPS.fixquality!=1) {};
+  Serial.print("Connecting to satellites");
+  while(GPS.fixquality!=1) {
+    Serial.print(".");
+    delay(250);
+  }
+  Serial.println(".");
+  delay(250);
+  Serial.println("Satellites aquired");
 }
 
 /***********************************************************************************
@@ -132,10 +143,13 @@ void useInterrupt(boolean v) {
 uint32_t timer = millis();
 
 /***********************************************************************************
-                                     MAIN LOOP
+                                      MAIN LOOP
 ***********************************************************************************/
 
-void loop() { 
+void loop() {
+  
+  Serial.print("Initializing new waypoint:");
+  Serial.println(currentWP);
   
   setpointData.latitude = waypoints[currentWP][0];
   setpointData.longitude = waypoints[currentWP][1];
@@ -143,13 +157,26 @@ void loop() {
   compassRead();
   float integral=0,previous_error=0; // pid calculation variables reset every setpoint
   
+  Serial.println("Driving to waypoint");
+  
   // while not at current setpoint, drive until setpoint is reached
   while(currentData.latitude!=setpointData.latitude && currentData.longitude!=setpointData.longitude) {
       gpsData(); // gets current GPS location and time (UTS)
       compassRead(); // gets current heading
+      
+      if(debug) {
+        Serial.print("Current Latitude: ");
+        Serial.println(currentData.latitude);
+        Serial.print("Current Longitude: ");
+        Serial.println(currentData.longitude);
+        Serial.print("Current Heading: ");
+        Serial.println(currentData.heading);
+      }
+      
       pidControl(integral,previous_error); //enables control system to drive motors until setpoint is reached
   }
   
+  Serial.print("Reached waypoint");
   // if reached last WP, reset to first waypoint
   // THIS MEANS CLOSED LOOP PATH FOLLOWING
   if(currentWP==9) {

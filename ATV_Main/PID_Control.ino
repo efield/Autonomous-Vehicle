@@ -1,5 +1,4 @@
 
-
 #define kp 1.0
 #define ki 0.1
 #define kd 1.0
@@ -19,12 +18,33 @@ void pidControl(int integral, int previous_error) {
                            ((cos(currentData.latitude)*sin(setpointData.latitude))-sin(currentData.latitude)*
                            cos(setpointData.longitude)*cos(setpointData.latitude-currentData.latitude)));
   float error = calcHeadingError(&turn_dir);
+  
+  if(debugPID) {
+     Serial.print("Setpoint Heading: ");
+     Serial.println(setpointData.heading);
+     Serial.print("Current Heading: ");
+     Serial.println(currentData.heading);
+     Serial.print("Error: ");
+     Serial.println(error);
+     Serial.print("Turn Direction: ");
+     Serial.print(turn_dir);
+  }    
+    
   if(turn_dir!=9) {
     stepSpeed = pidCalc(timer2,integral,previous_error,error);
+    if(debugPID) {
+      Serial.print("Step delay: ");
+      Serial.println(stepSpeed);
     setSteppersTurn(stepSpeed,turn_dir); // drive with turn function
+    }
   }
+  
   else {
      driveSteppers(defaultDelayFast, defaultDelayFast); //motor 1_3 & 2_4 same speed
+     if(debugPID) {
+       Serial.print("Step delay default fast: ");
+       Serial.println(defaultDelayFast);
+     }
   }
 }
 
@@ -64,6 +84,11 @@ int pidCalc(unsigned long timer2, int integral, float previous_error, float erro
     // calculation for what max output should be based on gain settings
     // may need tweaking
     int rangeConstraint = (180*kp + 180*ki + 180*kd);
+    
+    if(debugPID) {
+      Serial.print("PID Range Constraint: ");
+      Serial.println(rangeConstraint);
+    }
     
     constrain(output,0,rangeConstraint); // these values may need to be tuned once tested and pid data available
     map(output,0,rangeConstraint,defaultDelaySlow,defaultDelayFast); // maps the output to a delay in microseconds

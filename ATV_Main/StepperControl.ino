@@ -1,5 +1,5 @@
 
-#define runTime 2000 // runs for 2 seconds
+#define runTime 1750 // runs for 1.75 seconds
 
 // used to return pins to high allows for both
 // steppers to be run simultaneously
