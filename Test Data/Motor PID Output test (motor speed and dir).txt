@@ -1,0 +1,486 @@
+t: 910
+Constrained output: 180.00
+Mapped outpu00
+
+Initializing
+Connecting to satellites...
+Satellites Aquired
+
+Heading to waypoint 0
+
+Setpoint Heading: 353.07
+Current Heading: 318.22
+Error: 34.00
+PID output: 0.00
+Turn Direction: 1
+
+Unconstrained output: 170.00
+PID Range Constraint: 910
+Constrained output: 170.00
+Mapped output: 2153.00
+
+Turning
+Step delay: 2153.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 317.09
+Error: 35.00
+PID output: 2153.00
+Turn Direction: 1
+
+Unconstrained output: 175.33
+PID Range Constraint: 910
+Constrained output: 175.33
+Mapped output: 2173.00
+
+Turning
+Step delay: 2173.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 316.07
+Error: 37.00
+PID output: 2173.00
+Turn Direction: 1
+
+Unconstrained output: 185.33
+PID Range Constraint: 910
+Constrained output: 185.33
+Mapped output: 2211.00
+
+Turning
+Step delay: 2211.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 273.17
+Error: 79.00
+PID output: 2211.00
+Turn Direction: 1
+
+Unconstrained output: 399.67
+PID Range Constraint: 910
+Constrained output: 399.67
+Mapped output: 3034.00
+
+Turning
+Step delay: 3034.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 271.95
+Error: 81.00
+PID output: 3034.00
+Turn Direction: 1
+
+Unconstrained output: 405.17
+PID Range Constraint: 910
+Constrained output: 405.17
+Mapped output: 3057.00
+
+Turning
+Step delay: 3057.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 265.11
+Error: 87.00
+PID output: 3057.00
+Turn Direction: 1
+
+Unconstrained output: 435.40
+PID Range Constraint: 910
+Constrained output: 435.40
+Mapped output: 3173.00
+
+Turning
+Step delay: 3173.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 232.78
+Error: 120.00
+PID output: 3173.00
+Turn Direction: 1
+
+Unconstrained output: 601.83
+PID Range Constraint: 910
+Constrained output: 601.83
+Mapped output: 3811.00
+
+Turning
+Step delay: 3811.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 225.27
+Error: 127.00
+PID output: 3811.00
+Turn Direction: 1
+
+Unconstrained output: 635.33
+PID Range Constraint: 910
+Constrained output: 635.33
+Mapped output: 3942.00
+
+Turning
+Step delay: 3942.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 184.35
+Error: 168.00
+PID output: 3942.00
+Turn Direction: 1
+
+Unconstrained output: 841.71
+PID Range Constraint: 910
+Constrained output: 841.71
+Mapped output: 4734.00
+
+Turning
+Step delay: 4734.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 181.30
+Error: 171.00
+PID output: 4734.00
+Turn Direction: 1
+
+Unconstrained output: 855.11
+PID Range Constraint: 910
+Constrained output: 855.11
+Mapped output: 4788.00
+
+Turning
+Step delay: 4788.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 96.89
+Error: 103.00
+PID output: 4788.00
+Turn Direction: 0
+
+Unconstrained output: 512.73
+PID Range Constraint: 910
+Constrained output: 512.73
+Mapped output: 3469.00
+
+Turning
+Step delay: 3469.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 105.40
+Error: 112.00
+PID output: 3469.00
+Turn Direction: 0
+
+Unconstrained output: 560.27
+PID Range Constraint: 910
+Constrained output: 560.27
+Mapped output: 3653.00
+
+Turning
+Step delay: 3653.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 108.10
+Error: 115.00
+PID output: 3653.00
+Turn Direction: 0
+
+Unconstrained output: 575.08
+PID Range Constraint: 910
+Constrained output: 575.08
+Mapped output: 3711.00
+
+Turning
+Step delay: 3711.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 139.04
+Error: 145.00
+PID output: 3711.00
+Turn Direction: 0
+
+Unconstrained output: 725.77
+PID Range Constraint: 910
+Constrained output: 725.77
+Mapped output: 4288.00
+
+Turning
+Step delay: 4288.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 188.98
+Error: 164.00
+PID output: 4288.00
+Turn Direction: 1
+
+Unconstrained output: 820.45
+PID Range Constraint: 910
+Constrained output: 820.45
+Mapped output: 4653.00
+
+Turning
+Step delay: 4653.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 200.20
+Error: 152.00
+PID output: 4653.00
+Turn Direction: 1
+
+Unconstrained output: 759.73
+PID Range Constraint: 910
+Constrained output: 759.73
+Mapped output: 4419.00
+
+Turning
+Step delay: 4419.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 208.87
+Error: 144.00
+PID output: 4419.00
+Turn Direction: 1
+
+Unconstrained output: 719.83
+PID Range Constraint: 910
+Constrained output: 719.83
+Mapped output: 4265.00
+
+Turning
+Step delay: 4265.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 186.66
+Error: 166.00
+PID output: 4265.00
+Turn Direction: 1
+
+Unconstrained output: 830.43
+PID Range Constraint: 910
+Constrained output: 830.43
+Mapped output: 4692.00
+
+Turning
+Step delay: 4692.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 132.59
+Error: 139.00
+PID output: 4692.00
+Turn Direction: 0
+
+Unconstrained output: 694.50
+PID Range Constraint: 910
+Constrained output: 694.50
+Mapped output: 4169.00
+
+Turning
+Step delay: 4169.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 140.17
+Error: 147.00
+PID output: 4169.00
+Turn Direction: 0
+
+Unconstrained output: 735.14
+PID Range Constraint: 910
+Constrained output: 735.14
+Mapped output: 4326.00
+
+Turning
+Step delay: 4326.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 136.30
+Error: 143.00
+PID output: 4326.00
+Turn Direction: 0
+
+Unconstrained output: 714.93
+PID Range Constraint: 910
+Constrained output: 714.93
+Mapped output: 4246.00
+
+Turning
+Step delay: 4246.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 153.13
+Error: 160.00
+PID output: 4246.00
+Turn Direction: 0
+
+Unconstrained output: 800.27
+PID Range Constraint: 910
+Constrained output: 800.27
+Mapped output: 4576.00
+
+Turning
+Step delay: 4576.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 144.33
+Error: 151.00
+PID output: 4576.00
+Turn Direction: 0
+
+Unconstrained output: 754.86
+PID Range Constraint: 910
+Constrained output: 754.86
+Mapped output: 4400.00
+
+Turning
+Step delay: 4400.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 183.14
+Error: 169.00
+PID output: 4400.00
+Turn Direction: 1
+
+Unconstrained output: 845.26
+PID Range Constraint: 910
+Constrained output: 845.26
+Mapped output: 4750.00
+
+Turning
+Step delay: 4750.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 176.66
+Error: 176.00
+PID output: 4750.00
+Turn Direction: 1
+
+Unconstrained output: 880.10
+PID Range Constraint: 910
+Constrained output: 880.10
+Mapped output: 4884.00
+
+Turning
+Step delay: 4884.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 170.08
+Error: 177.00
+PID output: 4884.00
+Turn Direction: 0
+
+Unconstrained output: 885.01
+PID Range Constraint: 910
+Constrained output: 885.01
+Mapped output: 4903.00
+
+Turning
+Step delay: 4903.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 154.86
+Error: 161.00
+PID output: 4903.00
+Turn Direction: 0
+
+Unconstrained output: 804.79
+PID Range Constraint: 910
+Constrained output: 804.79
+Mapped output: 4592.00
+
+Turning
+Step delay: 4592.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 197.92
+Error: 155.00
+PID output: 4592.00
+Turn Direction: 1
+
+Unconstrained output: 774.93
+PID Range Constraint: 910
+Constrained output: 774.93
+Mapped output: 4476.00
+
+Turning
+Step delay: 4476.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 206.30
+Error: 146.00
+PID output: 4476.00
+Turn Direction: 1
+
+Unconstrained output: 729.89
+PID Range Constraint: 910
+Constrained output: 729.89
+Mapped output: 4303.00
+
+Turning
+Step delay: 4303.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 206.15
+Error: 146.00
+PID output: 4303.00
+Turn Direction: 1
+
+Unconstrained output: 730.00
+PID Range Constraint: 910
+Constrained output: 730.00
+Mapped output: 4307.00
+
+Turning
+Step delay: 4307.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 341.41
+Error: 11.00
+PID output: 4307.00
+Turn Direction: 1
+
+Unconstrained output: 53.50
+PID Range Constraint: 910
+Constrained output: 53.50
+Mapped output: 1703.00
+
+Turning
+Step delay: 1703.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 338.76
+Error: 14.00
+PID output: 1703.00
+Turn Direction: 1
+
+Unconstrained output: 70.03
+PID Range Constraint: 910
+Constrained output: 70.03
+Mapped output: 1769.00
+

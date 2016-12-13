@@ -1,4 +1,4 @@
-void runSteppers() {
+void driveSteppers(int stepDelay2_4, int stepDelay1_3) {
   
   unsigned long timerS1_3=micros();
   unsigned long timerS2_4=micros();

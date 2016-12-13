@@ -1,0 +1,5782 @@
+Initializing
+Connecting to satellites...
+Satellites Aquired
+
+Heading to waypoint 0
+
+Setpoint Heading: 353.07
+Current Heading: 331.62
+Error: 21.00
+PID output: 0.00
+Turn Direction: 1
+
+Unconstrained output: 105.00
+PID Range Constraint: 910
+Constrained output: 105.00
+Mapped output: 1903.00
+
+Turning
+Step delay: 1903.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 331.52
+Error: 21.00
+PID output: 1903.00
+Turn Direction: 1
+
+Unconstrained output: 105.00
+PID Range Constraint: 910
+Constrained output: 105.00
+Mapped output: 1903.00
+
+Turning
+Step delay: 1903.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 331.03
+Error: 22.00
+PID output: 1903.00
+Turn Direction: 1
+
+Unconstrained output: 110.17
+PID Range Constraint: 910
+Constrained output: 110.17
+Mapped output: 1923.00
+
+Turning
+Step delay: 1923.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 330.14
+Error: 22.00
+PID output: 1923.00
+Turn Direction: 1
+
+Unconstrained output: 110.00
+PID Range Constraint: 910
+Constrained output: 110.00
+Mapped output: 1923.00
+
+Turning
+Step delay: 1923.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 330.64
+Error: 22.00
+PID output: 1923.00
+Turn Direction: 1
+
+Unconstrained output: 110.00
+PID Range Constraint: 910
+Constrained output: 110.00
+Mapped output: 1923.00
+
+Turning
+Step delay: 1923.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 330.85
+Error: 22.00
+PID output: 1923.00
+Turn Direction: 1
+
+Unconstrained output: 110.00
+PID Range Constraint: 910
+Constrained output: 110.00
+Mapped output: 1923.00
+
+Turning
+Step delay: 1923.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 334.23
+Error: 18.00
+PID output: 1923.00
+Turn Direction: 1
+
+Unconstrained output: 89.78
+PID Range Constraint: 910
+Constrained output: 89.78
+Mapped output: 1842.00
+
+Turning
+Step delay: 1842.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 334.06
+Error: 19.00
+PID output: 1842.00
+Turn Direction: 1
+
+Unconstrained output: 95.05
+PID Range Constraint: 910
+Constrained output: 95.05
+Mapped output: 1865.00
+
+Turning
+Step delay: 1865.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 339.90
+Error: 13.00
+PID output: 1865.00
+Turn Direction: 1
+
+Unconstrained output: 64.75
+PID Range Constraint: 910
+Constrained output: 64.75
+Mapped output: 1746.00
+
+Turning
+Step delay: 1746.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 341.79
+Error: 11.00
+PID output: 1746.00
+Turn Direction: 1
+
+Unconstrained output: 54.93
+PID Range Constraint: 910
+Constrained output: 54.93
+Mapped output: 1707.00
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.12
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.12
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.15
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.15
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.15
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.15
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.15
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.46
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.46
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.46
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.46
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.46
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.82
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.82
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.82
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.82
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.82
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.82
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.82
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.82
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.82
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.82
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.34
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.34
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.34
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.34
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.34
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.11
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.11
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.11
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.11
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.11
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.29
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.29
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.29
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.29
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.29
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.48
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.48
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.48
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.48
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.48
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.11
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.11
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.11
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.11
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.11
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.29
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.29
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.29
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.29
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.29
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.17
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.17
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.17
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.17
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.17
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.46
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.46
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.46
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.46
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.46
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.11
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.11
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.11
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.11
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.11
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.06
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.06
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.29
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.29
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.17
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.17
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.17
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.17
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.17
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.77
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.77
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.77
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.77
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.77
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.82
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.82
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.82
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.82
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.82
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.77
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.77
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.77
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.77
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.77
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.60
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.60
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.60
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.60
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.60
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.20
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.20
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.20
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.20
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.20
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.00
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.00
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.00
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.00
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.00
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.23
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.23
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.23
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.23
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.23
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.31
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.31
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.31
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.31
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.31
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.13
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.13
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.13
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.13
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.13
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.20
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.20
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.20
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.20
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.20
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.37
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.49
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.49
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.49
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.49
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.49
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.49
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.49
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.49
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.49
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.49
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.31
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.71
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.71
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.71
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.65
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.65
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.65
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.65
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.65
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.40
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.40
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.40
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.40
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.40
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.05
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.05
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.05
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.05
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.05
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.19
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.19
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.19
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.19
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.19
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.94
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.94
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.94
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.94
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.94
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.29
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.29
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.29
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.29
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.29
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.59
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.59
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.59
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.59
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.59
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.96
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.96
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.96
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.96
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.96
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.42
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.42
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.42
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.42
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.42
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.77
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.77
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.77
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.77
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.77
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.49
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.49
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.49
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.49
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.49
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.68
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.68
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.68
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.68
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.68
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.08
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.08
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.08
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.08
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.08
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.37
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.37
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.37
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.43
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.25
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.25
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.25
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.25
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.25
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.90
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.90
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.90
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.90
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.90
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.20
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.20
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.20
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.20
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.20
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.67
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.67
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.67
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.67
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.67
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.07
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.07
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.07
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.07
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.07
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.36
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.36
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.36
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.36
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.36
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.39
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.39
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.39
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.39
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.39
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.96
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.96
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.96
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.96
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.96
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.13
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.13
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.13
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.13
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.13
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.56
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.56
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.56
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.56
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.56
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.07
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.07
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.07
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.07
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.07
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.42
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.42
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.42
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.42
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.42
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.54
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.54
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.54
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.54
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.54
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.68
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.68
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.37
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.37
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.37
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.37
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.37
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.37
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.37
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.37
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.37
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.37
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.37
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.37
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.37
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.36
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.36
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.36
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.36
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.36
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.91
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.91
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.91
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.91
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.91
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.66
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.66
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.66
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.66
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.66
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.12
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.12
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.12
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.12
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.12
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.31
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.31
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.31
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.31
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.31
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.20
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.20
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.20
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.20
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.20
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.73
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.73
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.73
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.73
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.73
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.13
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.13
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.13
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.13
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.13
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.36
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.36
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.36
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.36
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.36
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.25
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.25
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.25
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.25
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.25
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.02
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.02
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.02
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.02
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.02
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.01
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.53
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.53
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.53
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.56
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.56
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.56
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.56
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.56
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.14
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.14
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.14
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.14
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.14
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.90
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.90
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.90
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.90
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.90
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.54
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.54
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.54
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.54
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.54
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.54
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.54
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.54
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.54
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.54
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.19
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.19
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.19
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.19
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.19
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.89
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.89
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.89
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.89
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.89
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.90
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.90
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.90
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.90
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.90
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.90
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.90
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.90
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.90
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.90
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.78
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.78
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.78
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.78
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.78
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.65
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.65
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.65
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.65
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.65
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.88
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.88
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.88
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.88
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.88
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.89
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.89
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.89
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.89
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.89
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.89
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.89
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.90
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.90
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.31
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.31
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.31
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.31
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.31
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.31
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.31
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.31
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.31
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.31
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.31
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.13
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.13
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.13
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.13
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.13
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.19
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.19
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.19
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.19
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.19
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.19
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.19
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.19
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.19
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.19
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.20
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.20
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.20
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.20
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.20
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.85
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.85
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.85
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.85
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.85
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.85
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.85
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.85
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.85
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.85
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.25
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.25
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.25
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.25
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.25
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.65
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.65
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.65
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.65
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.65
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.30
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.30
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.30
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.30
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.30
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.95
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.95
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.95
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.95
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.95
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.84
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.84
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.84
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.84
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.84
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.48
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.95
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.95
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.95
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.68
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.68
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.68
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.68
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.68
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.31
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.31
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.31
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.31
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.31
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.12
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.12
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.12
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.12
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.12
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.30
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.30
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.30
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.30
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.30
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.79
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.79
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.79
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.79
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.79
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.78
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.78
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.78
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.78
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 352.78
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.02
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.02
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.02
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.02
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.02
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.25
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.25
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.25
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.25
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.25
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.07
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.07
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.07
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.07
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.07
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.13
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.13
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.13
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.13
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.13
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.60
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.60
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.60
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.60
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.60
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.42
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.42
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.42
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.42
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 353.42
+Error: 0.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.52
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.52
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.52
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.52
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.52
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 354.99
+Error: 1.00
+PID output: 1707.00
+Turn Direction: 9
+
+Turning
+Step delay: 1707.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 356.05
+Error: 2.00
+PID output: 1707.00
+Turn Direction: 0
+
+Unconstrained output: 9.76
+PID Range Constraint: 910
+Constrained output: 9.76
+Mapped output: 1534.00
+
+Turning
+Step delay: 1534.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 2.04
+Error: 8.00
+PID output: 1534.00
+Turn Direction: 0
+
+Unconstrained output: 40.15
+PID Range Constraint: 910
+Constrained output: 40.15
+Mapped output: 1653.00
+
+Turning
+Step delay: 1653.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 2.07
+Error: 8.00
+PID output: 1653.00
+Turn Direction: 0
+
+Unconstrained output: 40.00
+PID Range Constraint: 910
+Constrained output: 40.00
+Mapped output: 1653.00
+
+Turning
+Step delay: 1653.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 2.57
+Error: 9.00
+PID output: 1653.00
+Turn Direction: 0
+
+Unconstrained output: 45.02
+PID Range Constraint: 910
+Constrained output: 45.02
+Mapped output: 1673.00
+
+Turning
+Step delay: 1673.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 1.74
+Error: 8.00
+PID output: 1673.00
+Turn Direction: 0
+
+Unconstrained output: 39.98
+PID Range Constraint: 910
+Constrained output: 39.98
+Mapped output: 1650.00
+
+Turning
+Step delay: 1650.00
+Driving Straight
+
+Setpoint Heading: 353.07
+Current Heading: 1.37
+Error: 8.00
+PID output: 1650.00
+Turn Direction: 0
+
+Unconstrained output: 40.00
+PID Range Constraint: 910
+Constrained output: 40.00
+Mapped output: 1653.00
+

@@ -12,11 +12,18 @@ typedef struct {
  float heading;
 } cur_data_t;
 
-
 typedef struct {
   float latitude;
   float longitude;
   float heading;
 } sp_data_t;
+
+typedef struct {
+  float error;
+  float integral;
+  float derivative;
+  float previousError;
+  float output;
+} pid_data_t;
 
 #endif
