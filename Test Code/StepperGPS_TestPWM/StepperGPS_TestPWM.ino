@@ -1,6 +1,6 @@
 /***********************************************************************************
   WRITTEN BY: ERIC FIELD
-  DATE: 21-DEC-2016
+  DATE: 8-DEC-2016
   PROJECT: AUTONOMOUS ALL TERRAIN VEHICLE
 ***********************************************************************************/
 
@@ -21,19 +21,19 @@
 // Program mode
 boolean basicTest = false;
 
-// debugging
-boolean debug = true; // debugs main loop
-boolean debugSensors = false; // debugs sensor readings
-boolean debugPID = true; // debugs PID calculations
-
 // Data storage
 cur_data_t currentData; // creates struct for holding current data
 sp_data_t setpointData; // creates struct for holding calculated setpoint data
 pid_data_t pidData;
 
 // Waypoints
-float waypoints[5][2]; // stores gps waypoints
+float waypoints[10][2]; // stores gps waypoints
 byte currentWP = 0; // index for which waypoint system is on
+
+// debugging
+boolean debug = false; // debugs main loop
+boolean debugSensors = false; // debugs sensor readings
+boolean debugPID = true; // debugs PID calculations
 
 // Compass
 Adafruit_HMC5883_Unified mag = Adafruit_HMC5883_Unified(12345);
@@ -105,10 +105,18 @@ uint32_t timer = millis();
 void loop() {
   
 if(basicTest) {
+  unsigned long spTimeElapsed = millis();
+  int counterReads=0;
+  while(millis()-spTimeElapsed<1000)
+  {
     gpsData();
     compassRead();
-    Serial.println();
-    delay(2000);
+    //pidControl(spTimeElapsed);
+    counterReads++;
+  //driveSteppers(defaultDelayFast, defaultDelaySlow);
+  }
+  Serial.print("Number of reads: ");
+  Serial.println(counterReads);
 }
 
 else {
@@ -117,21 +125,9 @@ else {
   Serial.println(currentWP);
   Serial.println();
 
-  waypoints[0][0] = 51.1436;
-  waypoints[0][1] = -114.1478;
+  waypoints[currentWP][0] = 45.3191;
+  waypoints[currentWP][1] = -75.9330;
 
-  waypoints[1][0] = 51.1434;
-  waypoints[1][1] = -114.1480;
-
-  waypoints[2][0] = 51.1434;
-  waypoints[2][1] = -114.1476;
-  
-//  waypoints[0][0] = 51.1434;
-//  waypoints[0][1] = -114.1475;
-
-//  waypoints[0][0] = 51.1450;
-//  waypoints[0][1] = -114.1549;
-  
   gpsData(); // gets current GPS location and time (UTS)
   compassRead(); // gets current heading
   
@@ -143,6 +139,8 @@ else {
   pidData.integral=0; 
   pidData.previousError=0;
   pidData.output=0;
+  analogWrite(stepperPin1_3,50);
+  analogWrite(stepperPin2_4,50);
 
   while(currentData.latitude!=setpointData.latitude && currentData.longitude!=setpointData.longitude) {
       gpsData(); // gets current GPS location and time (UTS)
@@ -169,13 +167,16 @@ else {
       }
       
       pidControl(spTimeElapsed); //enables control system to drive motors until setpoint is reached
+      unsigned long waitSensorReads = millis();
+      while(millis()-waitSensorReads<500) {
+      }
     }
   
   Serial.print("Reached waypoint");
   
   // if reached last WP, reset to first waypoint
   // THIS MEANS CLOSED LOOP PATH FOLLOWING
-  if(currentWP==5) {
+  if(currentWP==9) {
     currentWP=0;
   }
   

@@ -8,12 +8,12 @@ void driveSteppers(int stepDelay2_4, int stepDelay1_3) {
   while(millis()-timerDuration < stepperRunDuration) {
   
     if((micros()-timerS1_3)>=stepDelay1_3) {
-      digitalWrite(6, LOW);
+      digitalWrite(stepperPin1_3, LOW);
       timerS1_3=micros(); // reset timer
       S1_3High();
     }
     if((micros()-timerS2_4)>=stepDelay2_4) {
-      digitalWrite(4, LOW);
+      digitalWrite(stepperPin2_4, LOW);
       timerS2_4=micros(); // reset timer
       S2_4High();
     }

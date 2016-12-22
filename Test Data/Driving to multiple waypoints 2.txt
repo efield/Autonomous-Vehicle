@@ -1,0 +1,1106 @@
+Initializing
+Connecting to satellites...
+Satellites Aquired
+
+Heading to waypoint 0
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 214.05
+Setpoint Heading: 0.00
+
+Setpoint Heading: 10.28
+Current Heading: 214.05
+Error: 156.00
+PID output: 0.00
+Turn Direction: 1
+
+Unconstrained output: 780.00
+PID Range Constraint: 910
+Constrained output: 780.00
+Mapped output: 4464.00
+
+Turning
+Step delay: 4464.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 215.10
+Setpoint Heading: 10.28
+
+Setpoint Heading: 22.93
+Current Heading: 215.10
+Error: 167.00
+PID output: 4464.00
+Turn Direction: 1
+
+Unconstrained output: 846.00
+PID Range Constraint: 910
+Constrained output: 846.00
+Mapped output: 4736.00
+
+Turning
+Step delay: 4736.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 214.97
+Setpoint Heading: 22.93
+
+Setpoint Heading: 52.09
+Current Heading: 214.97
+Error: 162.00
+PID output: 4736.00
+Turn Direction: 0
+
+Unconstrained output: 807.50
+PID Range Constraint: 910
+Constrained output: 807.50
+Mapped output: 4575.00
+
+Turning
+Step delay: 4575.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 210.27
+Setpoint Heading: 52.09
+
+Setpoint Heading: 22.93
+Current Heading: 210.27
+Error: 172.00
+PID output: 4575.00
+Turn Direction: 1
+
+Unconstrained output: 863.33
+PID Range Constraint: 910
+Constrained output: 863.33
+Mapped output: 4806.00
+
+Turning
+Step delay: 4806.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 211.27
+Setpoint Heading: 22.93
+
+Setpoint Heading: 75.54
+Current Heading: 211.27
+Error: 135.00
+PID output: 4806.00
+Turn Direction: 0
+
+Unconstrained output: 665.75
+PID Range Constraint: 910
+Constrained output: 665.75
+Mapped output: 3990.00
+
+Turning
+Step delay: 3990.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 208.76
+Setpoint Heading: 75.54
+
+Setpoint Heading: 75.54
+Current Heading: 208.76
+Error: 133.00
+PID output: 3990.00
+Turn Direction: 0
+
+Unconstrained output: 664.60
+PID Range Constraint: 910
+Constrained output: 664.60
+Mapped output: 3986.00
+
+Turning
+Step delay: 3986.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 208.39
+Setpoint Heading: 75.54
+
+Setpoint Heading: 51.88
+Current Heading: 208.39
+Error: 156.00
+PID output: 3986.00
+Turn Direction: 0
+
+Unconstrained output: 783.83
+PID Range Constraint: 910
+Constrained output: 783.83
+Mapped output: 4476.00
+
+Turning
+Step delay: 4476.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 205.94
+Setpoint Heading: 51.88
+
+Setpoint Heading: 51.88
+Current Heading: 205.94
+Error: 154.00
+PID output: 4476.00
+Turn Direction: 0
+
+Unconstrained output: 769.71
+PID Range Constraint: 910
+Constrained output: 769.71
+Mapped output: 4418.00
+
+Turning
+Step delay: 4418.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 203.04
+Setpoint Heading: 51.88
+
+Setpoint Heading: 51.88
+Current Heading: 203.04
+Error: 151.00
+PID output: 4418.00
+Turn Direction: 0
+
+Unconstrained output: 754.63
+PID Range Constraint: 910
+Constrained output: 754.63
+Mapped output: 4357.00
+
+Turning
+Step delay: 4357.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 195.10
+Setpoint Heading: 51.88
+
+Setpoint Heading: 51.88
+Current Heading: 195.10
+Error: 143.00
+PID output: 4357.00
+Turn Direction: 0
+
+Unconstrained output: 714.11
+PID Range Constraint: 910
+Constrained output: 714.11
+Mapped output: 4192.00
+
+Turning
+Step delay: 4192.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 183.87
+Setpoint Heading: 51.88
+
+Setpoint Heading: 51.88
+Current Heading: 183.87
+Error: 131.00
+PID output: 4192.00
+Turn Direction: 0
+
+Unconstrained output: 653.80
+PID Range Constraint: 910
+Constrained output: 653.80
+Mapped output: 3940.00
+
+Turning
+Step delay: 3940.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 325.05
+Setpoint Heading: 51.88
+
+Setpoint Heading: 51.88
+Current Heading: 325.05
+Error: 86.00
+PID output: 3940.00
+Turn Direction: 1
+
+Unconstrained output: 425.91
+PID Range Constraint: 910
+Constrained output: 425.91
+Mapped output: 3001.00
+
+Turning
+Step delay: 3001.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 316.01
+Setpoint Heading: 51.88
+
+Setpoint Heading: 51.88
+Current Heading: 316.01
+Error: 95.00
+PID output: 3001.00
+Turn Direction: 1
+
+Unconstrained output: 475.75
+PID Range Constraint: 910
+Constrained output: 475.75
+Mapped output: 3207.00
+
+Turning
+Step delay: 3207.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 322.21
+Setpoint Heading: 51.88
+
+Setpoint Heading: 51.88
+Current Heading: 322.21
+Error: 89.00
+PID output: 3207.00
+Turn Direction: 1
+
+Unconstrained output: 444.54
+PID Range Constraint: 910
+Constrained output: 444.54
+Mapped output: 3079.00
+
+Turning
+Step delay: 3079.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 318.02
+Setpoint Heading: 51.88
+
+Setpoint Heading: 52.09
+Current Heading: 318.02
+Error: 94.00
+PID output: 3079.00
+Turn Direction: 1
+
+Unconstrained output: 470.36
+PID Range Constraint: 910
+Constrained output: 470.36
+Mapped output: 3186.00
+
+Turning
+Step delay: 3186.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 316.61
+Setpoint Heading: 52.09
+
+Setpoint Heading: 52.09
+Current Heading: 316.61
+Error: 95.00
+PID output: 3186.00
+Turn Direction: 1
+
+Unconstrained output: 475.07
+PID Range Constraint: 910
+Constrained output: 475.07
+Mapped output: 3207.00
+
+Turning
+Step delay: 3207.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 321.64
+Setpoint Heading: 52.09
+
+Setpoint Heading: 52.09
+Current Heading: 321.64
+Error: 90.00
+PID output: 3207.00
+Turn Direction: 1
+
+Unconstrained output: 449.69
+PID Range Constraint: 910
+Constrained output: 449.69
+Mapped output: 3100.00
+
+Turning
+Step delay: 3100.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 317.47
+Setpoint Heading: 52.09
+
+Setpoint Heading: 52.09
+Current Heading: 317.47
+Error: 94.00
+PID output: 3100.00
+Turn Direction: 1
+
+Unconstrained output: 470.24
+PID Range Constraint: 910
+Constrained output: 470.24
+Mapped output: 3186.00
+
+Turning
+Step delay: 3186.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 318.71
+Setpoint Heading: 52.09
+
+Setpoint Heading: 52.09
+Current Heading: 318.71
+Error: 93.00
+PID output: 3186.00
+Turn Direction: 1
+
+Unconstrained output: 464.94
+PID Range Constraint: 910
+Constrained output: 464.94
+Mapped output: 3162.00
+
+Turning
+Step delay: 3162.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 317.49
+Setpoint Heading: 52.09
+
+Setpoint Heading: 52.09
+Current Heading: 317.49
+Error: 94.00
+PID output: 3162.00
+Turn Direction: 1
+
+Unconstrained output: 470.05
+PID Range Constraint: 910
+Constrained output: 470.05
+Mapped output: 3186.00
+
+Turning
+Step delay: 3186.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 317.46
+Setpoint Heading: 52.09
+
+Setpoint Heading: 52.09
+Current Heading: 317.46
+Error: 94.00
+PID output: 3186.00
+Turn Direction: 1
+
+Unconstrained output: 470.00
+PID Range Constraint: 910
+Constrained output: 470.00
+Mapped output: 3186.00
+
+Turning
+Step delay: 3186.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 318.16
+Setpoint Heading: 52.09
+
+Setpoint Heading: 307.91
+Current Heading: 318.16
+Error: 10.00
+PID output: 3186.00
+Turn Direction: 0
+
+Unconstrained output: 46.00
+PID Range Constraint: 910
+Constrained output: 46.00
+Mapped output: 1439.00
+
+Turning
+Step delay: 1439.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 316.64
+Setpoint Heading: 307.91
+
+Setpoint Heading: 307.91
+Current Heading: 316.64
+Error: 8.00
+PID output: 1439.00
+Turn Direction: 0
+
+Unconstrained output: 39.91
+PID Range Constraint: 910
+Constrained output: 39.91
+Mapped output: 1410.00
+
+Turning
+Step delay: 1410.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 312.05
+Setpoint Heading: 307.91
+
+Setpoint Heading: 232.18
+Current Heading: 312.05
+Error: 79.00
+PID output: 1410.00
+Turn Direction: 0
+
+Unconstrained output: 398.09
+PID Range Constraint: 910
+Constrained output: 398.09
+Mapped output: 2890.00
+
+Turning
+Step delay: 2890.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 316.93
+Setpoint Heading: 232.18
+
+Setpoint Heading: 232.18
+Current Heading: 316.93
+Error: 84.00
+PID output: 2890.00
+Turn Direction: 0
+
+Unconstrained output: 420.21
+PID Range Constraint: 910
+Constrained output: 420.21
+Mapped output: 2980.00
+
+Turning
+Step delay: 2980.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 314.88
+Setpoint Heading: 232.18
+
+Setpoint Heading: 232.18
+Current Heading: 314.88
+Error: 82.00
+PID output: 2980.00
+Turn Direction: 0
+
+Unconstrained output: 409.92
+PID Range Constraint: 910
+Constrained output: 409.92
+Mapped output: 2935.00
+
+Turning
+Step delay: 2935.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 313.88
+Setpoint Heading: 232.18
+
+Setpoint Heading: 232.18
+Current Heading: 313.88
+Error: 81.00
+PID output: 2935.00
+Turn Direction: 0
+
+Unconstrained output: 404.96
+PID Range Constraint: 910
+Constrained output: 404.96
+Mapped output: 2914.00
+
+Turning
+Step delay: 2914.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 313.70
+Setpoint Heading: 232.18
+
+Setpoint Heading: 203.07
+Current Heading: 313.70
+Error: 110.00
+PID output: 2914.00
+Turn Direction: 0
+
+Unconstrained output: 551.07
+PID Range Constraint: 910
+Constrained output: 551.07
+Mapped output: 3520.00
+
+Turning
+Step delay: 3520.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 314.56
+Setpoint Heading: 203.07
+
+Setpoint Heading: 231.89
+Current Heading: 314.56
+Error: 82.00
+PID output: 3520.00
+Turn Direction: 0
+
+Unconstrained output: 409.00
+PID Range Constraint: 910
+Constrained output: 409.00
+Mapped output: 2935.00
+
+Turning
+Step delay: 2935.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 314.51
+Setpoint Heading: 231.89
+
+Setpoint Heading: 231.89
+Current Heading: 314.51
+Error: 82.00
+PID output: 2935.00
+Turn Direction: 0
+
+Unconstrained output: 410.00
+PID Range Constraint: 910
+Constrained output: 410.00
+Mapped output: 2939.00
+
+Turning
+Step delay: 2939.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 312.01
+Setpoint Heading: 231.89
+
+Setpoint Heading: 231.89
+Current Heading: 312.01
+Error: 80.00
+PID output: 2939.00
+Turn Direction: 0
+
+Unconstrained output: 399.94
+PID Range Constraint: 910
+Constrained output: 399.94
+Mapped output: 2894.00
+
+Turning
+Step delay: 2894.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 308.28
+Setpoint Heading: 231.89
+
+Setpoint Heading: 231.89
+Current Heading: 308.28
+Error: 76.00
+PID output: 2894.00
+Turn Direction: 0
+
+Unconstrained output: 379.88
+PID Range Constraint: 910
+Constrained output: 379.88
+Mapped output: 2811.00
+
+Turning
+Step delay: 2811.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 305.36
+Setpoint Heading: 231.89
+
+Setpoint Heading: 231.89
+Current Heading: 305.36
+Error: 73.00
+PID output: 2811.00
+Turn Direction: 0
+
+Unconstrained output: 364.91
+PID Range Constraint: 910
+Constrained output: 364.91
+Mapped output: 2750.00
+
+Turning
+Step delay: 2750.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 305.89
+Setpoint Heading: 231.89
+
+Setpoint Heading: 231.89
+Current Heading: 305.89
+Error: 73.00
+PID output: 2750.00
+Turn Direction: 0
+
+Unconstrained output: 365.00
+PID Range Constraint: 910
+Constrained output: 365.00
+Mapped output: 2754.00
+
+Turning
+Step delay: 2754.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 303.76
+Setpoint Heading: 231.89
+
+Setpoint Heading: 212.51
+Current Heading: 303.76
+Error: 91.00
+PID output: 2754.00
+Turn Direction: 0
+
+Unconstrained output: 455.51
+PID Range Constraint: 910
+Constrained output: 455.51
+Mapped output: 3125.00
+
+Turning
+Step delay: 3125.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 302.70
+Setpoint Heading: 212.51
+
+Setpoint Heading: 212.51
+Current Heading: 302.70
+Error: 90.00
+PID output: 3125.00
+Turn Direction: 0
+
+Unconstrained output: 449.97
+PID Range Constraint: 910
+Constrained output: 449.97
+Mapped output: 3100.00
+
+Turning
+Step delay: 3100.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 302.09
+Setpoint Heading: 212.51
+
+Setpoint Heading: 212.51
+Current Heading: 302.09
+Error: 89.00
+PID output: 3100.00
+Turn Direction: 0
+
+Unconstrained output: 444.97
+PID Range Constraint: 910
+Constrained output: 444.97
+Mapped output: 3079.00
+
+Turning
+Step delay: 3079.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 295.76
+Setpoint Heading: 212.51
+
+Setpoint Heading: 212.51
+Current Heading: 295.76
+Error: 83.00
+PID output: 3079.00
+Turn Direction: 0
+
+Unconstrained output: 414.84
+PID Range Constraint: 910
+Constrained output: 414.84
+Mapped output: 2956.00
+
+Turning
+Step delay: 2956.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 299.65
+Setpoint Heading: 212.51
+
+Setpoint Heading: 212.51
+Current Heading: 299.65
+Error: 87.00
+PID output: 2956.00
+Turn Direction: 0
+
+Unconstrained output: 435.10
+PID Range Constraint: 910
+Constrained output: 435.10
+Mapped output: 3042.00
+
+Turning
+Step delay: 3042.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 304.27
+Setpoint Heading: 212.51
+
+Setpoint Heading: 212.51
+Current Heading: 304.27
+Error: 91.00
+PID output: 3042.00
+Turn Direction: 0
+
+Unconstrained output: 455.10
+PID Range Constraint: 910
+Constrained output: 455.10
+Mapped output: 3125.00
+
+Turning
+Step delay: 3125.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 305.42
+Setpoint Heading: 212.51
+
+Setpoint Heading: 212.51
+Current Heading: 305.42
+Error: 92.00
+PID output: 3125.00
+Turn Direction: 0
+
+Unconstrained output: 460.02
+PID Range Constraint: 910
+Constrained output: 460.02
+Mapped output: 3145.00
+
+Turning
+Step delay: 3145.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 302.05
+Setpoint Heading: 212.51
+
+Setpoint Heading: 212.51
+Current Heading: 302.05
+Error: 89.00
+PID output: 3145.00
+Turn Direction: 0
+
+Unconstrained output: 444.93
+PID Range Constraint: 910
+Constrained output: 444.93
+Mapped output: 3079.00
+
+Turning
+Step delay: 3079.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 302.73
+Setpoint Heading: 212.51
+
+Setpoint Heading: 212.51
+Current Heading: 302.73
+Error: 90.00
+PID output: 3079.00
+Turn Direction: 0
+
+Unconstrained output: 450.02
+PID Range Constraint: 910
+Constrained output: 450.02
+Mapped output: 3104.00
+
+Turning
+Step delay: 3104.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 302.24
+Setpoint Heading: 212.51
+
+Setpoint Heading: 212.51
+Current Heading: 302.24
+Error: 89.00
+PID output: 3104.00
+Turn Direction: 0
+
+Unconstrained output: 444.98
+PID Range Constraint: 910
+Constrained output: 444.98
+Mapped output: 3079.00
+
+Turning
+Step delay: 3079.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 301.80
+Setpoint Heading: 212.51
+
+Setpoint Heading: 212.51
+Current Heading: 301.80
+Error: 89.00
+PID output: 3079.00
+Turn Direction: 0
+
+Unconstrained output: 445.00
+PID Range Constraint: 910
+Constrained output: 445.00
+Mapped output: 3083.00
+
+Turning
+Step delay: 3083.00
+Driving Straight
+
+Current Latitude: 51.1436
+Setpoint Latitude: 51.1436
+
+Current Longitude: -114.1478
+Setpoint Longitude: -114.1478
+
+Current Heading: 300.91
+Setpoint Heading: 212.51
+
+Setpoint Heading: 212.51
+Current Heading: 300.91
+Error: 88.00
+PID output: 3083.00
+Turn Direction: 0
+
+Unconstrained output: 439.98
+PID Range Constraint: 910
+Constrained output: 439.98
+Mapped output: 3059.00
+

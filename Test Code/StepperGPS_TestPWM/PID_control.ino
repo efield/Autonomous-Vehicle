@@ -6,10 +6,13 @@ void pidControl(unsigned long spTimeElapsed) {
   int stepSpeed;
 
   // calculate setpoint heading in radians, convert to degrees
-  float y = sin(setpointData.longitude-currentData.longitude) * cos(setpointData.latitude);
-  float x = cos(currentData.latitude)*sin(setpointData.latitude) - sin(currentData.latitude)*cos(setpointData.latitude)*cos(setpointData.longitude-currentData.longitude);  
-  setpointData.heading = atan2(y,x)*(180.0/3.14);
-  setpointData.heading +=180; // shifts from -180 to 180 range to 0 to 360 range
+  setpointData.heading = (atan2(sin(setpointData.longitude-currentData.latitude)*cos(setpointData.latitude),
+                         ((cos(currentData.latitude)*sin(setpointData.latitude))-sin(currentData.latitude)*cos(setpointData.longitude)*
+                         cos(setpointData.latitude-currentData.latitude))))*(180/PI);
+
+  if(setpointData.heading < 0) {
+    setpointData.heading +=360;
+  }
   
   calcHeadingError(&turn_dir);
   
@@ -50,6 +53,14 @@ void pidControl(unsigned long spTimeElapsed) {
 void calcHeadingError(byte *turn_dir) {
     
   pidData.error = setpointData.heading - currentData.heading;
+        
+//        if(pidData.error<-360) { // 180
+//          pidData.error+=360; // 360
+//        }
+//        
+//        if(pidData.error>360) { // 360
+//          pidData.error-=360; //360
+//        }
 
         // if -2< pidData.error < 2 turn dir remains = 9 => drive striaght 
         if(pidData.error>180) {

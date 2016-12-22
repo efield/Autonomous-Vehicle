@@ -1,6 +1,3 @@
-//A4 = SDA
-//A5 = SCL
-
 void compassRead() {
   
   /* Get a new sensor event */ 
